@@ -1,7 +1,7 @@
 ## Environment Configuration
 The app is configured by Env Variables that are read on startup. 
 
-###mandatory
+### mandatory
 - SIGNAL_USERNAME
   - eg ```+4911111111```
 - SIGNAL_CLI_PATH
